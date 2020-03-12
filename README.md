@@ -10,5 +10,5 @@
 * Section 1 - Getting your mind and computer ready for machine learning (concepts, computer setup)
 * Section 2 - Tools for machine learning and data science (pandas, NumPy, Matplotlib, Scikit-Learn)
 * Section 3 - End-to-end structured data projects (classification and regression)
-* *(work in progress) Section 4 - Neural networks, deep learning and transfer learning with TensorFlow 2.0*
+* Section 4 - Neural networks, deep learning and transfer learning with TensorFlow 2.0*
 * *(work in progress) Section 5 - Communicating and sharing your work*
